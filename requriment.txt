@@ -14,4 +14,3 @@ python-dotenv
 sentence-transformers
 tiktoken
 
-unstructured
